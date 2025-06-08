@@ -88,3 +88,126 @@ crashlytics-build.properties
 # Other
 WebGL/
 Assets/Images/clip
+
+# Unity generated directories
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/[Aa]ssets/Plugins/Editor/JetBrains*
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+!/[Aa]ssets/**/*.meta
+
+# Visual Studio / MonoDevelop / Rider generated files
+.vs/
+.idea/
+.vscode/
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Unity3D generated file on crash reports
+sysinfo.txt
+
+# Builds and packages
+*.apk
+*.aab
+*.app
+*.unitypackage
+*.unitypackage.meta
+
+# Crashlytics generated file
+crashlytics-build.properties
+
+# Packed Addressables
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# Temporary auto-generated Android Assets
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Visual Scripting
+/[Aa]ssets/Unity.VisualScripting.Generated/
+/[Aa]ssets/Unity.VisualScripting.Generated.meta
+
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Blender backup files
+*.blend1
+*.blend1.meta
+
+# Large media files (推奨)
+*.psd
+*.ai
+*.tif
+*.tiff
+*.mp4
+*.mov
+*.wav
+
+# Build specific
+/[Ww]ebGL/
+/[Aa]ndroid/
+/[Ii]OS/
+/[Ww]indows/
+/[Mm]acOS/
+
+# Package manager cache
+.gradle/
+
+# Asset Store tools
+/[Aa]ssets/AssetStoreTools*
+
+# Auto-generated Visual Studio Code files
+*.code-workspace
+
+# Unity generated folders that can be ignored
+/[Aa]ssets/TextMesh*Pro/
+/[Aa]ssets/TextMesh*Pro.meta
+
+# Cache files
+*.dwlt
+
+# Unity temporary directories
+.utmp/
+
+# Project specific backup files
+*.unity.backup
+*.prefab.backup
+
+# Optional: Large binary files that should use Git LFS instead
+# *.fbx
+# *.png
+# *.jpg
+# *.asset
