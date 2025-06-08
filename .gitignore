@@ -88,7 +88,7 @@ crashlytics-build.properties
 # Other
 WebGL/
 Assets/Images/clip
-Assets/Font/
+Assets/Fonts/
 
 # Unity generated directories
 /[Ll]ibrary/
